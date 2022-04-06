@@ -13,8 +13,10 @@ a {
 }
 
 nav {
-  position: absolute;
+  position: fixed;
   display: flex;
+  z-index: 10000;
+  top: 0px;
   justify-content: space-between;
   padding-left: 100px;
   padding-right: 100px;
@@ -70,6 +72,7 @@ nav .links a:hover {
   justify-content: center;
   color: black;
   padding-top: 125px;
+  position: relative;
 }
 
 .movie-info {
