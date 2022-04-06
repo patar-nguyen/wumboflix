@@ -16,4 +16,4 @@ Install dependencies with npm install.
 ## Screenshots
 Demo
 
-
+https://github.com/patar-nguyen/wumboflix/blob/master/src/images/wumboflix.gif?raw=true
