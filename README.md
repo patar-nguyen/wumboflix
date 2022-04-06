@@ -11,10 +11,11 @@ Install dependencies with npm install.
 - Axios
 
 ## Running the Server
-```npm start``
+`npm start`
 
 ## Screenshots
 Demo
-
 ![Demo](https://github.com/patar-nguyen/wumboflix/blob/master/src/images/wumboflix.gif?raw=true)
+
+Clicking on a movie
 ![Rick-Roll](https://github.com/patar-nguyen/wumboflix/blob/master/src/images/wumboflix-rickroll.gif?raw=true)
