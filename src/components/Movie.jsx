@@ -11,7 +11,7 @@ const rickRolled = () => {
   window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
 }
 
-//opens youtube to rick astley video
+//opens youtube to rick astley videos
 const handleClick = (e) => {
   e.preventDefault();
   rickRolled();
